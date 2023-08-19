@@ -1,3 +1,6 @@
+#
+# modific
+#
 import random
 
 d1 = random.Random()
